@@ -1,1 +1,2 @@
 ipywidgets==7.6.5
+cvxopt==1.2.7
